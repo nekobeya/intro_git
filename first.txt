@@ -5,3 +5,5 @@ Git練習ファイル
 練習中
 
 git status
+
+git diff
