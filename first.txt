@@ -1,3 +1,5 @@
 Git練習ファイル
 .git add
 .git commit
+
+練習中
