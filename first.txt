@@ -3,3 +3,5 @@ Git練習ファイル
 .git commit
 
 練習中
+
+git status
